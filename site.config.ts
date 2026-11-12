@@ -6,7 +6,7 @@ export const site: SiteConfig = {
   category: "Nigerian home cooking",
   schemaType: "FoodEstablishment",
   area: "Mississauga, ON",
-  siteUrl: "https://oreos-kitchen.vercel.app",
+  siteUrl: "https://oreos-kitchen-ca.vercel.app",
 
   theme: {
     preset: "warm-food",
